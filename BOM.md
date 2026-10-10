@@ -21,7 +21,7 @@
 | [MPU6050](https://www.amazon.ca/gp/product/B00LP25V1A/ref=ox_sc_act_title_1?smid=A30QSGOJR8LMXA&psc=1) | idk yet | 1 | $2.57 | $2.57 | [Amazon Canada](https://www.amazon.ca/gp/product/B00LP25V1A/ref=ox_sc_act_title_1?smid=A30QSGOJR8LMXA&psc=1) |
 | [0.96 OLED](https://www.amazon.ca/gp/product/B0GBVWBWCR/ref=ox_sc_act_title_6?smid=A3CX4TQNUXMB0L&psc=1) | Screen | 1 | $3.24 | $3.24 | [Amazon Canada](https://www.amazon.ca/gp/product/B0GBVWBWCR/ref=ox_sc_act_title_6?smid=A3CX4TQNUXMB0L&psc=1) |
 | **Parts subtotal** | — | — | — | **$29.14** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$29.14** | — |
+| **Tax & shipping** | — | — | — | **$18.80** | — |
+| **Total** | — | — | — | **$47.94** | — |
 
-$0.86 left of the tier's funding.
+**$17.94 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
