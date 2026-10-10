@@ -21,7 +21,7 @@
 | [MPU6050](https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.3.28fb71f3r83v2j&productIds=1005007728845619%3A12000042055448713&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007728845619%7C_p_origin_prod%3A&pvid=1fc6b497-8dad-48b9-aef2-03011f10b881) | idk yet | 1 | $2.29 | $2.29 | [Aliexpress](https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.3.28fb71f3r83v2j&productIds=1005007728845619%3A12000042055448713&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007728845619%7C_p_origin_prod%3A&pvid=1fc6b497-8dad-48b9-aef2-03011f10b881) |
 | [0.96 OLED](https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.3.28fb71f3r83v2j&productIds=1005007728845619%3A12000042055448713&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007728845619%7C_p_origin_prod%3A&pvid=1fc6b497-8dad-48b9-aef2-03011f10b881) | Screen | 1 | $0.74 | $0.74 | [Aliexpress](https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.3.28fb71f3r83v2j&productIds=1005007728845619%3A12000042055448713&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007728845619%7C_p_origin_prod%3A&pvid=1fc6b497-8dad-48b9-aef2-03011f10b881) |
 | **Parts subtotal** | — | — | — | **$21.65** | — |
-| **Tax & shipping** | — | — | — | **$18.80** | — |
-| **Total** | — | — | — | **$40.45** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$31.65** | — |
 
-**$10.45 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1.65 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
