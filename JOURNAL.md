@@ -34,7 +34,7 @@
 
 # Day 2 :  Done with PCB edge cut and wiring
 
-### 0 - Main idea
+### 0 - Main idea brainstorm (10 min)
 
 Instead of doing a hair clip, I want to do a bag charm / keychain instead to be able to use it more daily. While writing this, it occured to me that I don't know right now is whether it will need a battery to function (probably, I will do more research tomorrow)
 
@@ -42,7 +42,9 @@ I want one switch to drop food fish into the bowl and another one to change fish
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/869a229107f58eba4c2e001c7e8bade76863b6ca71fa845ca20e5b5f4f1c3d1f.png)
 
-### 1- Edge cut
+### 1 - Reel editing (25 min)
+
+### 2- Edge cut (1 hour)
 I have decided to make my starbie the shape of a fish bowl and have a fish live in the screen :)
 Figuring out how to use the arches for the first time was easy, but aligning everything was very hard, I will look into a way to have everything centered because using the mouse to move things to specific location is very ragebaiting!
 
@@ -50,7 +52,7 @@ The arches are not perfectly aligned yet so I added straight lines to close the 
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/4cdd941986f27827c9ed0313c24711dbc3bd8c8cd4be4a3d9f3002db1e9c99b3.png)
 
-### 3 - Wiring
+### 3 - Wiring (25 min)
 The wiring consisted of a lot of trial and error but it is functional at the moment, it will probably change if I add a battery. I might also have to move the microcontroller to have the usb-c opening at the edge but I don't know if it is necessary.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/dd57bcc9d773e5e4728df1bc8410ae359db0598cfe8d3f8e237713e8029ffa06.png)
 
